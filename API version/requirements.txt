@@ -1,0 +1,18 @@
+# Core Web API & Application Server
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+
+# Interactive Web User Interface
+streamlit>=1.32.0
+
+# Document Ingestion & Chunking
+langchain-text-splitters>=0.0.1
+
+# Vector Store & Search Engine
+qdrant-client>=1.8.0
+
+# Data Validation & Typing
+pydantic>=2.6.0
+
+# Environment Configuration
+python-dotenv>=1.0.0
