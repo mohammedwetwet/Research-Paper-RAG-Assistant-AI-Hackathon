@@ -677,8 +677,8 @@ Special thanks to everyone who contributed to organizing and supporting the hack
 
 # 📄 Project Resources
 
-- **Presentation:** `ADD_PRESENTATION_LINK_HERE`
-- **GitHub Repository:** `ADD_GITHUB_LINK_HERE`
+- **Presentation:** `https://docs.google.com/presentation/d/1bmKh-OUFwy9qbfiksPBOokhFg4rdmdy9/edit?usp=drivesdk&ouid=115126713159904685119&rtpof=true&sd=true`
+- **GitHub Repository:** `https://github.com/mohammedwetwet/Research-Paper-RAG-Assistant-AI-Hackathon`
 
 ---
 
